@@ -1,4 +1,4 @@
-# MS-CRM-FLUENT-QUERY-BUILDER
+# MS.CRM.FLUENT.QUERY.BUILDER
 Microsoft CRM Dynamics fluent query builder for RetriveMultiple...
 
 ## SAMPLE USAGE
